@@ -1,0 +1,8 @@
+{
+  "name": "Remix: DEW UNIVERSE",
+  "description": "An explosive, high-energy digital experience for the bold and the rebellious. Fuel the rush with 3D product exploration, pro-gaming hubs, and extreme sports action.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
